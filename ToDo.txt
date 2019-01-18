@@ -1,0 +1,54 @@
+Javascript
+https://twitter.com/thepracticaldev/status/715623065078644738
+
+1.
+- Quick history & overview of frontend frameworks. - 15
+    - Server side rendered pages
+    - Rise of web applications
+    - Jquery to the rescue
+    - SPA, Hybrid Apps, All hail Javascript
+    - Frameworks era: Angular, Knockout, ember
+    - node js & front-end tooling
+    - New Kids: React, Vue
+    - Data driven UI, Enhancing UX
+- Front-end frameworks at Coverfox.
+    - Jquery
+    - Knockout
+    - React
+    - Vue
+
+2. What, Why & How of Vue js. - 20
+- Creating our first Vue component.
+- Vue templating
+- Reactivity in depth.
+    - https://vuejs.org/v2/guide/reactivity.html
+- Component lifecycle methods.
+    - https://vuejs.org/v2/guide/instance.html
+    - Computed Properties
+- Re-usable Components
+
+
+- Intro to State management - 20
+- Vuex dimistified.
+    - https://vuex.vuejs.org/
+    - state
+    - getters
+    - actions
+    - mutations
+    - modules
+    - API interactions
+- Connecting Vue view layer with Vuex stores
+- Components, action, store, state WTF! : Jargon busting
+- Vue router intro.
+
+3.
+- End 2 end architecture of a front-end Vue app.
+    - https://vuex.vuejs.org/guide/structure.html
+- Using Vue with Django or any other backend framework.
+    - Build files
+    - How do we do it?
+- Personal experience sharing, after having worked on multiple frameworks.
+- Q n A.
+
+Others:
+ - https://stackoverflow.com/c/techkilla/questions/10
